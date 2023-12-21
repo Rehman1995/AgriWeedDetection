@@ -10,4 +10,3 @@
 ## Output Predictions
 ![p1agri-Page-4](https://github.com/Rehman1995/Yolov5_weed_detection/assets/46449452/2bd30262-732c-4b7a-abe4-42d32bdf4f4e)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
