@@ -4,7 +4,7 @@ This repository contains the code and dataset used in our paper:
 
 **"Advanced Drone-Based Weed Detection Using Feature-Enriched Deep Learning Approach"**  
 Published in *Knowledge-Based Systems*, Elsevier, 2024  
-📄 [DOI Link (if available)](https://doi.org/10.1016/j.knosys.2024.112655)
+📄 [DOI Link](https://doi.org/10.1016/j.knosys.2024.112655)
 
 ---
 
