@@ -1,4 +1,4 @@
-# Advanced Drone-Based Weed Detection Using Feature-Enriched Deep Learning
+# Advanced Drone-Based Weed Detection Using Feature-Enriched Deep Learning Approach
 
 This repository contains the code and dataset used in our paper:
 
